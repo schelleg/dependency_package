@@ -1,0 +1,16 @@
+{
+  "name": "pynq_dependencies",
+  "version": "1.0.0",
+  "description": "Dependences for PYNQ and JupyterLab extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@jupyter-widgets/jupyterlab-manager": "0.38",
+    "plotlywidget": "0.10.0",
+    "@jupyterlab/plotly-extension": "0.18"
+  }
+}
