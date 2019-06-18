@@ -10,7 +10,8 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "@jupyter-widgets/jupyterlab-manager": "0.38",
+    "@jupyterlab/plotly-extension": "0.18",
     "plotlywidget": "0.10.0",
-    "@jupyterlab/plotly-extension": "0.18"
+    "@mapbox/jsonlint-lines-primitives": "2.0.1"
   }
 }
